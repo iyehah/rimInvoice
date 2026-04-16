@@ -32,7 +32,7 @@ Web app for creating and managing invoices with support for Mauritanian context 
 ## Getting started
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/iyehah/rimInvoice.git
 cd riminvoice
 npm install
 ```
